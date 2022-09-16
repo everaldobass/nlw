@@ -5,6 +5,6 @@
 - Mayk Brito
 
 
-Mission Start desenvolvendo um **Esports** - HTML5, CSS3.
+Mission NLW Explorer **Esports** - HTML5, CSS3, Git GitHub
 
 <img src='./nlw-exports/img/nlw.png ' width='100%'/>
