@@ -1,4 +1,4 @@
-# Projeto-nlw-heat
+# Projeto-nlw-esports
 #### Creditos:
 - Projeto desenvolvido na nlw Explorer 2022:
 #### Instrutores: 
