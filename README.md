@@ -7,4 +7,4 @@
 
 Mission Start desenvolvendo um **Esports** - HTML5, CSS3.
 
-<img src='./nlw-heat/img/nlw.png ' width='100%'/>
+<img src='./nlw-exports/img/nlw.png ' width='100%'/>
